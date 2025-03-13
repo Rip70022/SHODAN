@@ -10,7 +10,7 @@ from colorama import Fore, Back, Style, init
 
 init(autoreset=True)
 
-API_KEY = "ZwuJ7tlmeZHNwsPToUFpUvPM7lVJAlQ4"
+API_KEY = "YOUR_API_KEY"
 API_URL = "https://api.shodan.io/shodan/host/{ip}?key={key}"
 
 def clear_screen():
